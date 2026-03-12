@@ -193,7 +193,7 @@ button:active, .button:active {
 }
 
 .error-list li:before {
-    content: "⚠️";
+    content: "АЛЕРТ";
     position: absolute;
     left: 0;
     color: #dc3545;
